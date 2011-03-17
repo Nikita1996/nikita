@@ -1,0 +1,3 @@
+module Nikita
+  # Your code goes here...
+end
